@@ -1,9 +1,8 @@
 # Projeto coletar informações sobre faturamento de uma Loja e enviar por e-mail (G-mail) 
 
 Resumo do que foi utilizado:
-- Linguagem Python
-- Biblioteca pandas, smtplib e email.message
-- Função
+- Linguagem: Python
+- Bibliotecas: pandas, smtplib e email.message
 
 ### Como usar?
 
@@ -32,17 +31,14 @@ Instalando a biblioteca:
 pip install pandas
 ```
 
-Pronto, agora que já tem o projeto e a(s) biblioteca(s) na sua máquina, você pode executar o programa rodando o arquivo _**"FaturamentoPorEmailGmail.py"**_.
-
-
 ### Como funciona?
 
 - Adicione nas linhas:
     - 59: troque 'Seu Nome' pelo seu nome;
     - 60: troque 'Seu Cargo' pelo seu cargo;
-    - 65: troque 'rementente@gmail.com' pelo seu e-mail Gmail (precisa ser um e-mail do G-mail);
+    - 65: troque 'remetente@gmail.com' pelo seu e-mail Gmail (precisa ser um e-mail do G-mail);
     - 66: troque 'destinatario@email.com.br' pelo destinatario desejado (não precisa ser e-mail do Gmail);
-    - 67: adicione dentro de '' a sua senha de App do G-mail. Atenção esta não é a sua senha de usuário do Google, pesquise "senha de app no G-mail".
+    - 67: adicione dentro de ' ' a sua SENHA DE APP do G-mail. Atenção esta não é a sua senha de usuário do Google, pesquise "senha de app no G-mail".
 
 - Pronto, agora que já tem o projeto e a(s) biblioteca(s) na sua máquina, você pode executar o programa rodando o arquivo _**"FaturamentoPorEmailGmail.py"**_.
 

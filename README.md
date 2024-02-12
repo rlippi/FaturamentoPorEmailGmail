@@ -2,12 +2,12 @@
 
 Resumo do que foi utilizado:
 - Linguagem Python
-- Biblioteca pandas
+- Biblioteca pandas, smtplib e email.message
 - Função
 
 ### Como usar?
 
-1- Instalar o Python, caso não tenha, faça download no site oficial:
+Instalar o Python, caso não tenha, faça download no site oficial:
 [Download Python](https://www.python.org/downloads/)
 
 Com o Python instalado, faça download ou clone esse repositório (precisa ter o git configurado) em algum local do seu computador com o seguinte comando no terminal:
@@ -37,7 +37,7 @@ Pronto, agora que já tem o projeto e a(s) biblioteca(s) na sua máquina, você 
 
 ### Como funciona?
 
-- 1. Adicione nas linhas:
+- Adicione nas linhas:
     - 59: troque 'Seu Nome' pelo seu nome;
     - 60: troque 'Seu Cargo' pelo seu cargo;
     - 65: troque 'rementente@gmail.com' pelo seu e-mail Gmail (precisa ser um e-mail do G-mail);
